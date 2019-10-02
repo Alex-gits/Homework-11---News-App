@@ -20,3 +20,7 @@
   max-height: 400px;
   backface-visibility: hidden;
 }
+
+.select-wrapper:last-child {
+  margin-top: 40px;
+}
